@@ -1,0 +1,9 @@
+{
+  "image_size": 224,
+  "embedding_dim": 128,
+  "num_classes": 541,
+  "arcface_margin": 0.3,
+  "arcface_scale": 64,
+  "batch_size": 64,
+  "seed": 42
+}

@@ -1,0 +1,8 @@
+{
+  "image_size": 112,
+  "embedding_dim": 512,
+  "num_classes": 868,
+  "triplet_margin": 0.5,
+  "model_name": "mobilenetv3_large_100",
+  "seed": 42
+}
